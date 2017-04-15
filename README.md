@@ -19,14 +19,15 @@ pyfm is able to do the following:
 
 To install the required Python3 modules use:
 
-`python3 -m pip install requirements.txt`
+`python3 -m pip install -r requirements.txt`
 
 To extract from rar files and split FLAC files, you will need to install two 
 packages:
 * `unar`
 * `shnsplit`
 
-They are likely available through your distribution's package manager.
+`unar` is likely available through your distribution's package manager. 
+`shnsplit` may have to be compiled from source however.
 <br><br>
 
 **Usage**

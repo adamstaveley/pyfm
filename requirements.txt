@@ -1,0 +1,2 @@
+pyperclip==1.5.27
+rarfile==2.8
